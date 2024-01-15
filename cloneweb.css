@@ -1,0 +1,169 @@
+.r1{
+    height: 500px;
+    width: 100%;
+    border: 2px  solid;
+    
+    
+}
+.nav-btn{
+    background-color:rgb(192, 90, 246);
+    border-radius: 10px;
+}
+
+.sign{
+    text-decoration: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 140%; /* 22.4px */
+    margin-left: 10px;
+}
+.fir-pic{
+    width: 100%;    
+}
+.h1{
+    font-family: Work Sans;
+font-size: 67px;
+font-style: normal;
+font-weight: 600;
+line-height: 110%; /* 73.7px */
+text-transform: capitalize;
+}
+.p1{
+ font-family: Work Sans;
+font-size: 22px;
+font-style: normal;
+line-height: 160%; /* 35.2px */
+text-transform: capitalize;
+}
+.b1{
+    border-radius: 20px;
+background-color:rgb(192, 90, 246);
+}
+.h16{
+    font-family: Space Mono;
+font-size: 28px;
+}
+.sixth{
+    height: 880px;
+    width: 100%;
+    /* background-image: url(./images/NFT\ Highlight.png);
+    background-size: cover; */
+    align-items: center;
+}
+.highlight{
+    width: 100%;
+}
+.eight-h3{
+    font-family: Work Sans;
+font-size: 38px;
+}
+.spcl-btn,.nav-btn{
+    background-color:rgb(192, 90, 246);
+    border-radius: 10px;
+}
+.sec{
+    margin-top: 50px;
+}
+.b11{
+    border-radius: 20px;
+    display: flex;
+height: 60px;
+padding: 0px 50px;
+justify-content: flex-end;
+align-items: center;
+gap: 12px;
+border: #3b3b3b00;
+}
+.bb12{
+    border-radius: 20px;
+    display: flex;
+height: 60px;
+padding: 0px 50px;
+justify-content: flex-end;
+align-items: center;
+gap: 12px;
+margin-top: -60px;
+margin-left: 214px;
+width: 250px;
+border: #3b3b3b00;
+background: var(--Call-to-Action, #A259FF);
+}
+@media(max-width:550px){
+    .sec{
+        margin-top: 450px;
+        margin-left: 50px;
+    }
+    .sec-r21{
+        margin-top: 10px;
+    }
+    .sec-r22{
+        display: none;
+    }
+    .third{
+        margin-top: 20px;
+    }
+    .b1{
+        margin-top: 20px;
+        width:300px;
+        width: 200px;
+    }
+    .th-c2,.for-c,.fif-c,.sev-c{
+        margin: 10px;
+    }
+    .th-last{
+        display: none;
+    }
+    .highlight{
+        width: 100%;
+    }
+    /* .sixth{
+        width:320px;
+        height:400px;
+    } */
+    .eight-img{
+        width: 100%;
+    }
+    .seven{
+        margin-top:-600px;
+    }
+    .th-c1,.th-c2,.th-c3,.th-c4,.fif-cc{
+        margin-left:40px;
+    }
+    .fif-cc{
+        background-color: var(--Background, #2B2B2B);
+    }
+    .fourth{
+        margin-left: 25px;
+    }
+    .fifth{
+        margin-left: 5px;
+    }
+    .seven{
+        margin-left:-15px;
+    }
+    .btn-group{
+        width:400px;
+    }
+    .b11{
+        width: 58%;
+        font-size: xx-small;
+        
+       }
+       .bb12{
+        width: 58%;
+        margin-left: 129px;
+       }
+       .be{
+        padding-top: 100px;
+        padding-bottom: 470px;
+      }
+     .sec{
+        margin-top:550px;
+        margin-left: -5px;
+     }
+    
+}
